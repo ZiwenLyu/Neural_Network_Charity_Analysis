@@ -2,7 +2,7 @@
 
 ## Overview of the analysis: Explain the purpose of this analysis.
 
-This project is to predict whether organization applicants will effectively utilize funds and succeed if funded by Alphabet Soup. The data is from Alphabet Soup’s business team, containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. I will use neural network model to make predic
+This project is to predict whether organization applicants will effectively utilize funds and succeed if funded by Alphabet Soup. The data is from Alphabet Soup’s business team, containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. I will adopt and train a neural network model to make predictions for Alphabet Soup.
 
 ## Results
 
